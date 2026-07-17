@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#555555</color>
+    <color name="dark_green">#1B5E20</color>
+    <color name="dark_purple">#4B0082</color>
+    <color name="gray_bg">#F3F3F3</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="medium_gray">#999999</color>
+    <color name="purple_dark">#5200CC</color>
+    <color name="purple_primary">#6A00FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_new_habit">Add a New Habit</string>
+    <string name="app_name">HabitTracker</string>
+    <string name="back">Back</string>
+    <string name="back_button">Back Button</string>
+    <string name="completed">Completed</string>
+    <string name="create_habit_button">Create Habit</string>
+    <string name="create_new_habit">Create New Habit</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="goal_description">How many to complete this task?</string>
+    <string name="goal_hint">Goal *</string>
+    <string name="habit_icon">Habit Icon</string>
+    <string name="habit_name_hint">Habit Name *</string>
+    <string name="habit_tracker">Habit Tracker</string>
+    <string name="in_progress">In Progress</string>
+    <string name="login_button">Login</string>
+    <string name="minus_symbol">-</string>
+    <string name="password_hint">Password</string>
+    <string name="plus_symbol">+</string>
+    <string name="progress_format">%1$d/%2$d %3$s</string>
+    <string name="progress_label">Progress</string>
+    <string name="sample_habit_description">Stay hydrated throughout the day</string>
+    <string name="sample_habit_name">Drink Water</string>
+    <string name="sample_progress">3/8 glasses</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="select_icon_hint">Select Icon *</string>
+    <string name="short_description_hint">Short Description *</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+    <string name="unit_example">e.g., glasses, minutes, pages</string>
+    <string name="unit_hint">Unit *</string>
+    <string name="username_hint">Username</string>
+    <style name="Base.Theme.HabitTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6A00FF</item>
+        <item name="colorPrimaryContainer">#8E3BFF</item>
+    </style>
+    <style name="Theme.HabitTracker" parent="Base.Theme.HabitTracker"/>
+</resources>

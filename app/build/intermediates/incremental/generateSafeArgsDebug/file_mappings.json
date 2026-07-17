@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.habittracker.NavGraphArgs","com.example.habittracker.ui.dashboard.DashboardFragmentDirections","com.example.habittracker.ui.edithabit.EditHabitFragmentArgs"]}]
