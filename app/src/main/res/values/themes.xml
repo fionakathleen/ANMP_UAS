@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HabitTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6A00FF</item>
+        <item name="colorPrimaryContainer">#8E3BFF</item>
+    </style>
+
+    <style name="Theme.HabitTracker" parent="Base.Theme.HabitTracker" />
+</resources>

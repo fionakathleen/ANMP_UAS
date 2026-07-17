@@ -1,0 +1,39 @@
+<resources>
+    //dashboard
+    <string name="app_name">HabitTracker</string>
+    <string name="completed">Completed</string>
+    <string name="in_progress">In Progress</string>
+    <string name="progress_format">%1$d/%2$d %3$s</string>
+    <string name="sample_progress">3/8 glasses</string>
+    <string name="habit_icon">Habit Icon</string>
+    <string name="sample_habit_name">Drink Water</string>
+    <string name="sample_habit_description">Stay hydrated throughout the day</string>
+    <string name="progress_label">Progress</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+
+    //crate habit
+    <string name="back_button">Back Button</string>
+    <string name="create_new_habit">Create New Habit</string>
+    <string name="add_new_habit">Add a New Habit</string>
+    <string name="habit_name_hint">Habit Name *</string>
+    <string name="short_description_hint">Short Description *</string>
+    <string name="goal_hint">Goal *</string>
+    <string name="goal_description">How many to complete this task?</string>
+    <string name="unit_hint">Unit *</string>
+    <string name="unit_example">e.g., glasses, minutes, pages</string>
+    <string name="select_icon_hint">Select Icon *</string>
+    <string name="create_habit_button">Create Habit</string>
+
+    //activity login
+    <string name="habit_tracker">Habit Tracker</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+
+    //edit habit
+    <string name="edit_habit">Edit Habit</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="back">Back</string>
+</resources>
