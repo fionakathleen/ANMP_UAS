@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_water.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_water.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/xml_backup_rules.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/layout_activity_main.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_icon_circle_bg.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/icon_circle_bg.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_button_bg.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/layout_fragment_create_habit.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/layout/fragment_create_habit.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/navigation_nav_graph.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_book.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_back.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/layout_fragment_edit_habit.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/layout/fragment_edit_habit.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/layout_activity_login.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_sleep.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_sleep.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_status_completed_bg.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/status_completed_bg.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_status_bg.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/status_bg.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/drawable_ic_walk.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/drawable/ic_walk.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.habittracker.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-56:/layout_item_habit.xml.flat",
+        "source": "com.example.habittracker.app-main-58:/layout/item_habit.xml"
+    }
+]

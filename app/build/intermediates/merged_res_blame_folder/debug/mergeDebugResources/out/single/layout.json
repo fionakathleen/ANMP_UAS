@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.habittracker.app-mergeDebugResources-55:/layout/item_habit.xml",
+        "source": "com.example.habittracker.app-main-58:/layout/item_habit.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-mergeDebugResources-55:/layout/fragment_edit_habit.xml",
+        "source": "com.example.habittracker.app-main-58:/layout/fragment_edit_habit.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-mergeDebugResources-55:/layout/fragment_dashboard.xml",
+        "source": "com.example.habittracker.app-main-58:/layout/fragment_dashboard.xml"
+    }
+]
